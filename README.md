@@ -189,5 +189,12 @@ http://goldendict.org/download.php
 
 * Process Explorer - менеджер процессов, код закрыт, официальный
 https://technet.microsoft.com/en-us/sysinternals/bb896653.aspx?f=255&MSPPError=-2147217396
-* Autoruns - код зкрыт, менеджер автозагрузки программ и служб
+* Autoruns - код закрыт, менеджер автозагрузки программ и служб
 https://technet.microsoft.com/en-us/sysinternals/bb963902.aspx
+* HWiNFO - код закрыт, информация о оборудовании http://www.hwinfo.com/download.php
+* CPU-Z - код закрыт, информация о процессоре и смежном обарудовании
+http://www.cpuid.com/softwares/cpu-z.html
+* Ant Renamer - групповое переименование файлов
+http://www.antp.be/software/renamer
+портативная версия http://portableapps.com/apps/utilities/ant_renamer_portable
+* Wireshark - снифер https://www.wireshark.org/download.html
