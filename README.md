@@ -83,6 +83,8 @@ http://librecad.org/cms/home.html
 * Firefox https://www.mozilla.org/en-US/firefox/new/
 и ESR версия https://www.mozilla.org/en-US/firefox/organizations/faq/
 и портативная версия http://portableapps.com/apps/internet/firefox_portable
+* TorBrowser - обход блокировок, выход в сеть через прокси, отключен сборк статистики
+https://www.torproject.org/
 
 #### Менеджеры загрузок
 
@@ -102,7 +104,7 @@ http://librecad.org/cms/home.html
 http://www.skype.com/en/download-skype/skype-for-computer/
 портативная версия http://portableapps.com/apps/internet/skype_portable
 как вариант можно использовать веб версию
-(в том числе на смартфонах включи "полную версию сайта")
+(в том числе на смартфонах включив "полную версию сайта")
 https://web.skype.com/
 
 #### Почтовые клиенты
@@ -172,6 +174,20 @@ http://www.daemon-tools.cc/rus/downloads
 
 * KeePassX https://www.keepassx.org/
 
-#### Эмуляторы
+## Эмуляторы компьютеров и систем
 
 * VirtualBox - эмулятор компьютера https://www.virtualbox.org/wiki/Downloads
+
+## Словари
+
+* GoldenDict - просмотр множества форматов словарей в том числе с произношением
+(подходят словари и от lingvo, на сегодня лучшие для русскоязычных)
+http://goldendict.org/download.php
+портативная версия http://portableapps.com/apps/education/goldendict_portable
+
+## Система
+
+* Process Explorer - менеджер процессов, код закрыт, официальный
+https://technet.microsoft.com/en-us/sysinternals/bb896653.aspx?f=255&MSPPError=-2147217396
+* Autoruns - код зкрыт, менеджер автозагрузки программ и служб
+https://technet.microsoft.com/en-us/sysinternals/bb963902.aspx
