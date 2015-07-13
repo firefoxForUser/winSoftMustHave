@@ -20,6 +20,9 @@ http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 #### IDE
 
+* Eclipse IDE универсальная среда, преимущественно для Java https://www.eclipse.org/downloads/
+* NetBeans IDE универсальная, преимущественно для Java https://netbeans.org/downloads/
+
 #### Контроль версий
 
 * git https://git-scm.com/downloads
@@ -29,6 +32,9 @@ http://www.oracle.com/technetwork/java/javase/downloads/index.html
 * maven - сборщик и репозиторий библиотек для java https://maven.apache.org/
 
 #### Локальные сервера
+
+* XAMPP - сборка apache/mysql/perl https://www.apachefriends.org/download.html
+* tomcat - контэйнер сервлетов http://tomcat.apache.org/
 
 #### CMS
 
@@ -78,6 +84,10 @@ http://www.oracle.com/technetwork/java/javase/downloads/index.html
 #### Файловые менеджеры
 
 * Total Commander - двухпанельный менеджер, код закрыт, но с хорошей репутацией http://www.ghisler.com/
+
+#### LiveCD/USB
+
+* UNetbootin создание LiveUSB из Linux образа диска для флэшки  http://unetbootin.sourceforge.net/
 
 ## Шифрование
 
