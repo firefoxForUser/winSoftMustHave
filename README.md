@@ -48,13 +48,13 @@ https://www.qt.io/download-open-source/
 
 #### CMS
 
-## Мультимедиа
+## Видео/Аудио
 
 #### Плеера
 
 * VLC аудио/видео плеер http://www.videolan.org/vlc/download-windows.html
 
-#### Медиа редакторы
+#### Видео редакторы и конверторы
 
 ## Графика
 
@@ -98,6 +98,12 @@ http://librecad.org/cms/home.html
 с плагином OTR устойчив к прослушиванию https://pidgin.im/download/
 и плагин для OTR https://otr.cypherpunks.ca/index.php#downloads
 (ссылка с этой страницы https://developer.pidgin.im/wiki/ThirdPartyPlugins#OfficialPlugins)
+* Skype - код закрыт, но распостранен очень широко
+http://www.skype.com/en/download-skype/skype-for-computer/
+портативная версия http://portableapps.com/apps/internet/skype_portable
+как вариант можно использовать веб версию
+(в том числе на смартфонах включи "полную версию сайта")
+https://web.skype.com/
 
 #### Почтовые клиенты
 
