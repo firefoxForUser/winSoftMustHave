@@ -1,6 +1,7 @@
 # Читай меня
 
 Список программ и ссылок под Windows. Преимущество отдано свободному, проверенному, популярному софту.
+Это личные заметки.
 
 ## Среды выполнения и библиотеки
 
@@ -52,13 +53,21 @@ http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 #### Менеджеры загрузок
 
+* Free Download Manager - свободный менеджер закгрузок http://www.freedownloadmanager.org/
+
 #### Торренты
 
 * qbittorrent http://www.qbittorrent.org/
 
 #### Обмен сообщениями
 
+* Pidgin - свободный мессенджер, с плагином OTR устойчив к прослушиванию https://pidgin.im/download/
+и плагин для OTR https://otr.cypherpunks.ca/index.php#downloads
+(ссылка с этой страницы https://developer.pidgin.im/wiki/ThirdPartyPlugins#OfficialPlugins)
+
 #### Почтовые клиенты
+
+#### Другое
 
 ## Оффис
 
@@ -70,6 +79,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 * Sumatra PDF - быстрый просмотрщик PDF http://www.sumatrapdfreader.org/free-pdf-reader.html
 * WinDjView - быстрый просмотрщик djvu http://windjview.sourceforge.net/
+* WinMerge - сравнение документов http://winmerge.org/
 
 #### Оффисные пакеты
 
