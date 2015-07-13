@@ -1,6 +1,6 @@
 # Читай меня
 
-Список программ и ссылок под Windows. Преимущество отдано свободному, проверенному, популярному софту.
+Список программ и ссылок под Windows и wine. Преимущество отдано свободному, проверенному, популярному софту.
 Это личные заметки.
 
 ## Среды выполнения и библиотеки
@@ -51,6 +51,10 @@ http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 #### Браузеры
 
+* Firefox https://www.mozilla.org/en-US/firefox/new/
+и ESR версия https://www.mozilla.org/en-US/firefox/organizations/faq/
+и портативная версия http://portableapps.com/apps/internet/firefox_portable
+
 #### Менеджеры загрузок
 
 * Free Download Manager - свободный менеджер закгрузок http://www.freedownloadmanager.org/
@@ -61,7 +65,8 @@ http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 #### Обмен сообщениями
 
-* Pidgin - свободный мессенджер, с плагином OTR устойчив к прослушиванию https://pidgin.im/download/
+* Pidgin - свободный мессенджер с поддержкой множества форматов,
+с плагином OTR устойчив к прослушиванию https://pidgin.im/download/
 и плагин для OTR https://otr.cypherpunks.ca/index.php#downloads
 (ссылка с этой страницы https://developer.pidgin.im/wiki/ThirdPartyPlugins#OfficialPlugins)
 
@@ -98,6 +103,11 @@ http://www.oracle.com/technetwork/java/javase/downloads/index.html
 #### LiveCD/USB
 
 * UNetbootin создание LiveUSB из Linux образа диска для флэшки  http://unetbootin.sourceforge.net/
+
+#### Восстановление информации
+
+* TestDisk - консольная утилита восстановления, фактически единственная свободная
+http://www.cgsecurity.org/wiki/TestDisk
 
 ## Шифрование
 
