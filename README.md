@@ -198,3 +198,17 @@ http://www.cpuid.com/softwares/cpu-z.html
 http://www.antp.be/software/renamer
 портативная версия http://portableapps.com/apps/utilities/ant_renamer_portable
 * Wireshark - снифер https://www.wireshark.org/download.html
+
+## Операционные системы
+
+* Tails - максимально анонимная система с установленными программами
+для анонимного общения и работы с сетями https://tails.boum.org/
+запускать рекомендуется в эмуляторах (например VirtualBox)
+или с загрузочных дисков.
+* Ubuntu http://www.ubuntu.com/download/desktop
+* Kubuntu http://www.kubuntu.org/getkubuntu
+* Пробные версии Windows
+http://www.microsoft.com/en-us/evalcenter/evaluate-windows-enterprise-insider-preview
+пробная версия Win7
+http://care.dlservice.microsoft.com/dl/download/evalx/win7/x86/EN/7600.16385.090713-1255_x86fre_enterprise_en-us_EVAL_Eval_Enterprise-GRMCENEVAL_EN_DVD.iso
+http://care.dlservice.microsoft.com/dl/download/evalx/win7/x64/EN/7600.16385.090713-1255_x64fre_enterprise_en-us_EVAL_Eval_Enterprise-GRMCENXEVAL_EN_DVD.iso
