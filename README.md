@@ -85,6 +85,7 @@ http://librecad.org/cms/home.html
 и портативная версия http://portableapps.com/apps/internet/firefox_portable
 * TorBrowser - обход блокировок, выход в сеть через прокси, отключен сборк статистики
 https://www.torproject.org/
+* google chrome http://portableapps.com/apps/internet/google_chrome_portable
 
 #### Менеджеры загрузок
 
@@ -152,6 +153,7 @@ https://www.libreoffice.org/download/libreoffice-fresh/
 #### LiveCD/USB
 
 * UNetbootin создание LiveUSB из Linux образа диска для флэшки  http://unetbootin.sourceforge.net/
+* оффициальная утилита для создания LiveUSB из Win7 http://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool
 
 #### Восстановление информации
 
@@ -174,9 +176,18 @@ http://www.daemon-tools.cc/rus/downloads
 
 * KeePassX https://www.keepassx.org/
 
+#### Шифрование дисков
+
+* VeraCrypt - форк TrueCrypt https://veracrypt.codeplex.com/
+* TCNext - форк TrueCrypt https://truecrypt.ch/
+* CipherShed форк TrueCrypt https://ciphershed.org/
+* о TrueCrypt и форках http://www.opennet.ru/cgi-bin/opennet/ks.cgi?mask=truecrypt
+* ферифицированные код, проектом проводившим аудит TrueCrypt https://github.com/AuditProject/truecrypt-verified-mirror
+
 ## Эмуляторы компьютеров и систем
 
 * VirtualBox - эмулятор компьютера https://www.virtualbox.org/wiki/Downloads
+* дополнение для Google Chrome через которое можно запускать программы от Android (.apk) https://developer.chrome.com/apps/getstarted_arc
 
 ## Словари
 
