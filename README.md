@@ -120,6 +120,7 @@ https://web.skype.com/
 * youtube-dl - скачивание с youtube.com файлов, файлов плейлистов в различных форматах
 и множеств других возможностей https://rg3.github.io/youtube-dl/download.html
 (как качать https://forum.mozilla-russia.org/viewtopic.php?id=58848)
+* HTTrack Website Copier - скачивание сайтов целиком.
 
 ## Оффис
 
