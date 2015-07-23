@@ -192,12 +192,16 @@ http://www.daemon-tools.cc/rus/downloads
 * VirtualBox - эмулятор компьютера https://www.virtualbox.org/wiki/Downloads
 * дополнение для Google Chrome через которое можно запускать программы от Android (.apk) https://developer.chrome.com/apps/getstarted_arc
 
-## Словари
+## Справочники, навигация, энциклопедии, Словари
 
 * GoldenDict - просмотр множества форматов словарей в том числе с произношением
 (подходят словари и от lingvo, на сегодня лучшие для русскоязычных)
 http://goldendict.org/download.php
 портативная версия http://portableapps.com/apps/education/goldendict_portable
+
+* SAS.Planet - просмотр карты из разных источников с возможностью загрузки
+облостей и просмотром только кэшированного (оффлайн)
+плюс множество возможностей http://www.sasgis.org/download/
 
 ## Система
 
