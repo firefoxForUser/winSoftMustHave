@@ -48,6 +48,15 @@ https://www.qt.io/download-open-source/
 
 #### CMS
 
+* Joomla http://www.joomla.org/
+* WordPress https://wordpress.org/
+
+#### JavaScript библиотеки, фреймворки, библиотеки CSS
+
+* Bootstrap http://getbootstrap.com/
+* jQuery https://jquery.com/
+* Backbone.js http://backbonejs.org/
+
 ## Видео/Аудио
 
 #### Плеера
