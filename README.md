@@ -245,3 +245,4 @@ http://www.microsoft.com/en-us/evalcenter/evaluate-windows-enterprise-insider-pr
 пробная версия Win7
 http://care.dlservice.microsoft.com/dl/download/evalx/win7/x86/EN/7600.16385.090713-1255_x86fre_enterprise_en-us_EVAL_Eval_Enterprise-GRMCENEVAL_EN_DVD.iso
 http://care.dlservice.microsoft.com/dl/download/evalx/win7/x64/EN/7600.16385.090713-1255_x64fre_enterprise_en-us_EVAL_Eval_Enterprise-GRMCENXEVAL_EN_DVD.iso
+* сравнить хэш суммы Windows из этого списка https://msdn.microsoft.com/ru-ru/subscriptions/downloads/default.aspx
