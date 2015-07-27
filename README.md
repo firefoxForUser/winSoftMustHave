@@ -133,6 +133,8 @@ https://web.skype.com/
 * Sumatra PDF - быстрый просмотрщик PDF http://www.sumatrapdfreader.org/free-pdf-reader.html
 * WinDjView - быстрый просмотрщик djvu http://windjview.sourceforge.net/
 * WinMerge - сравнение документов http://winmerge.org/
+* CoolReader - чтение книг, версия 2 имеет более удобный интерфейс http://www.coolreader.org/
+* FBReader - читалка книг https://ru.fbreader.org/
 
 #### Оффисные пакеты
 
