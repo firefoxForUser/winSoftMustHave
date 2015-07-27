@@ -130,6 +130,7 @@ https://web.skype.com/
 и множеств других возможностей https://rg3.github.io/youtube-dl/download.html
 (как качать https://forum.mozilla-russia.org/viewtopic.php?id=58848)
 * HTTrack Website Copier - скачивание сайтов целиком.
+* Wireshark - снифер https://www.wireshark.org/download.html
 
 ## Оффис
 
@@ -184,6 +185,11 @@ http://www.daemon-tools.cc/rus/downloads
 * InfraRecorder - запись дисков http://infrarecorder.org/?page_id=5
 портативная версия http://portableapps.com/apps/utilities/infrarecorder_portable
 
+#### Другое
+
+* Ant Renamer - групповое переименование файлов
+http://www.antp.be/software/renamer
+
 ## Шифрование
 
 #### Менеджеры паролей
@@ -223,10 +229,8 @@ https://technet.microsoft.com/en-us/sysinternals/bb963902.aspx
 * HWiNFO - код закрыт, информация о оборудовании http://www.hwinfo.com/download.php
 * CPU-Z - код закрыт, информация о процессоре и смежном обарудовании
 http://www.cpuid.com/softwares/cpu-z.html
-* Ant Renamer - групповое переименование файлов
-http://www.antp.be/software/renamer
 портативная версия http://portableapps.com/apps/utilities/ant_renamer_portable
-* Wireshark - снифер https://www.wireshark.org/download.html
+* ext2fsd - драйвер для работы с ext2/3/4 под Windows http://www.ext2fsd.com/
 
 ## Операционные системы
 
