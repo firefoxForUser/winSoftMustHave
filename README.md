@@ -116,7 +116,8 @@ http://www.skype.com/en/download-skype/skype-for-computer/
 как вариант можно использовать веб версию
 (в том числе на смартфонах включив "полную версию сайта")
 https://web.skype.com/
-* Viber - аналог Skype http://www.viber.com/en/
+* Viber - код закрыт, аналог Skype http://www.viber.com/en/
+* LINE - код закрыт, аналог Skype http://line.me/ru/
 * Tox - видеосвязь, код открыт, шифрование данных https://tox.im/
 
 #### Почтовые клиенты
