@@ -79,6 +79,8 @@ https://helpx.adobe.com/x-productkb/policy-pricing/cs6-product-downloads.html
 * LibreCAD - свободная программа для создание чертижей
 http://librecad.org/cms/home.html
 портативная версия http://portableapps.com/apps/graphics_pictures/librecad-portable
+* Shotcut видеоредактор
+http://www.shotcut.org/bin/view/Shotcut/Download
 
 #### Просмотр и конвертация
 
