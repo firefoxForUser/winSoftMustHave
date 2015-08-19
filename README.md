@@ -241,9 +241,11 @@ http://www.cpuid.com/softwares/cpu-z.html
 или с загрузочных дисков.
 * Ubuntu http://www.ubuntu.com/download/desktop
 * Kubuntu http://www.kubuntu.org/getkubuntu
-* Пробные версии Windows
-http://www.microsoft.com/en-us/evalcenter/evaluate-windows-enterprise-insider-preview
-пробная версия Win7
-http://care.dlservice.microsoft.com/dl/download/evalx/win7/x86/EN/7600.16385.090713-1255_x86fre_enterprise_en-us_EVAL_Eval_Enterprise-GRMCENEVAL_EN_DVD.iso
+* Пробные версии Windows <br>
+http://www.microsoft.com/en-us/evalcenter/evaluate-windows-enterprise-insider-preview <br>
+пробная версия Win7 <br>
+http://care.dlservice.microsoft.com/dl/download/evalx/win7/x86/EN/7600.16385.090713-1255_x86fre_enterprise_en-us_EVAL_Eval_Enterprise-GRMCENEVAL_EN_DVD.iso <br>
 http://care.dlservice.microsoft.com/dl/download/evalx/win7/x64/EN/7600.16385.090713-1255_x64fre_enterprise_en-us_EVAL_Eval_Enterprise-GRMCENXEVAL_EN_DVD.iso
 * сравнить хэш суммы Windows из этого списка https://msdn.microsoft.com/ru-ru/subscriptions/downloads/default.aspx
+* Оффициальные бесплатные версии Windows для VirtualBox
+http://dev.modern.ie/tools/vms/windows/
