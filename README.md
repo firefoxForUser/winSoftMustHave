@@ -170,6 +170,8 @@ https://www.libreoffice.org/download/libreoffice-fresh/
 
 * UNetbootin создание LiveUSB из Linux образа диска для флэшки  http://unetbootin.sourceforge.net/
 * оффициальная утилита для создания LiveUSB из Win7 http://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool
+* Rufus может создавать установочные LiveUSB в том числе с WinXP
+https://rufus.akeo.ie/
 
 #### Восстановление информации
 
