@@ -96,7 +96,7 @@ http://www.shotcut.org/bin/view/Shotcut/Download
 и портативная версия http://portableapps.com/apps/internet/firefox_portable
 * TorBrowser - обход блокировок, выход в сеть через прокси, отключен сборк статистики
 https://www.torproject.org/
-* google chrome http://portableapps.com/apps/internet/google_chrome_portable
+* google chrome, код частично закрыт http://portableapps.com/apps/internet/google_chrome_portable
 
 #### Менеджеры загрузок
 
