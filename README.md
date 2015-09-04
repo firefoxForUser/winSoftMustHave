@@ -63,6 +63,9 @@ https://www.qt.io/download-open-source/
 
 * VLC аудио/видео плеер http://www.videolan.org/vlc/download-windows.html
 
+* PotPlayer - код закрыт, но работает гораздо быстрее и стабильнее VLC, а интерфейс удобнее
+http://potplayer.daum.net/
+
 #### Видео редакторы и конверторы
 
 ## Графика
