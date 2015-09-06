@@ -130,6 +130,11 @@ https://web.skype.com/
 * Thunderbird https://www.mozilla.org/en-US/thunderbird/
 портативная верси http://portableapps.com/apps/internet/thunderbird_portable
 
+#### FTP Клиенты
+
+* FileZilla клиент и сервер для FTP
+https://filezilla-project.org/
+
 #### Другое
 
 * youtube-dl - скачивание с youtube.com файлов, файлов плейлистов в различных форматах
