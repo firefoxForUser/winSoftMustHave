@@ -247,6 +247,11 @@ http://www.cpuid.com/softwares/cpu-z.html
 портативная версия http://portableapps.com/apps/utilities/ant_renamer_portable
 * ext2fsd - драйвер для работы с ext2/3/4 под Windows http://www.ext2fsd.com/
 
+## Компоненты операционных систем
+
+* DirectX
+https://www.microsoft.com/ru-ru/download/details.aspx?id=35
+
 ## Операционные системы
 
 * Tails - максимально анонимная система с установленными программами
