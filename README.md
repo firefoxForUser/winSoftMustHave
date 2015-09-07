@@ -151,7 +151,8 @@ https://filezilla-project.org/
 
 #### Разные
 
-* Sumatra PDF - быстрый просмотрщик PDF http://www.sumatrapdfreader.org/free-pdf-reader.html
+* Sumatra PDF - быстрый просмотрщик PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR
+http://www.sumatrapdfreader.org/free-pdf-reader.html
 * WinDjView - быстрый просмотрщик djvu http://windjview.sourceforge.net/
 * WinMerge - сравнение документов http://winmerge.org/
 * CoolReader - чтение книг, версия 2 имеет более удобный интерфейс http://www.coolreader.org/
