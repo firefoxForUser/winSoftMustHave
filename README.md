@@ -237,6 +237,8 @@ http://goldendict.org/download.php
 
 * Process Explorer - менеджер процессов, код закрыт, официальный
 https://technet.microsoft.com/en-us/sysinternals/bb896653.aspx?f=255&MSPPError=-2147217396
+* Process Hacker свободная альтернатива Process Explorer
+http://processhacker.sourceforge.net/downloads.php
 * Autoruns - код закрыт, менеджер автозагрузки программ и служб
 https://technet.microsoft.com/en-us/sysinternals/bb963902.aspx
 * HWiNFO - код закрыт, информация о оборудовании http://www.hwinfo.com/download.php
