@@ -24,6 +24,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/index.html
 #### IDE
 
 * Eclipse IDE универсальная среда, преимущественно для Java https://www.eclipse.org/downloads/
+* Spring Tool Suite - IDE на основе Eclipse от проекта Spring https://spring.io/tools/sts
 * NetBeans IDE универсальная, преимущественно для Java https://netbeans.org/downloads/
 * Android SDK - среда и утилиты для разработки под Android https://developer.android.com/sdk/index.html
 * MySQL Workbench - разработка SQL баз данных для MySQL http://dev.mysql.com/downloads/workbench/
