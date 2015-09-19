@@ -46,6 +46,7 @@ https://www.qt.io/download-open-source/
 
 * XAMPP - сборка apache/mysql/perl https://www.apachefriends.org/download.html
 * tomcat - контэйнер сервлетов http://tomcat.apache.org/
+* GlassFish (ставится с NetBeans)
 
 #### CMS
 
@@ -57,6 +58,11 @@ https://www.qt.io/download-open-source/
 * Bootstrap http://getbootstrap.com/
 * jQuery https://jquery.com/
 * Backbone.js http://backbonejs.org/
+
+#### Java библиотеки, фреймворки
+
+* библиотеки Spring, Spring MVC, Spring Security
+* Hibernate, Hibernate Validator
 
 ## Видео/Аудио
 
