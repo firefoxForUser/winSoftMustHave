@@ -107,6 +107,8 @@ http://www.shotcut.org/bin/view/Shotcut/Download
 * TorBrowser - обход блокировок, выход в сеть через прокси, отключен сборк статистики
 https://www.torproject.org/
 * google chrome, код частично закрыт http://portableapps.com/apps/internet/google_chrome_portable
+* Opera - код частично закрыт, зато сжимает трафик, что при тарифах по трафку незаменимо, можно выбрать при установке "установить на USB" и получить портативную версию
+http://www.opera.com
 
 #### Менеджеры загрузок
 
