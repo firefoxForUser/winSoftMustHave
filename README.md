@@ -185,6 +185,7 @@ https://www.libreoffice.org/download/libreoffice-fresh/
 #### Файловые менеджеры
 
 * Total Commander - двухпанельный менеджер, код закрыт, но с хорошей репутацией http://www.ghisler.com/
+* Double Commander - двухпанельный менеджер, имеется некоторая поддержка плагинов от Total Commander http://doublecmd.sourceforge.net/
 
 #### LiveCD/USB
 
