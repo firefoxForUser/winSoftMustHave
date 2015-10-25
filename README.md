@@ -244,6 +244,8 @@ http://goldendict.org/download.php
 облостей и просмотром только кэшированного (оффлайн)
 плюс множество возможностей http://www.sasgis.org/download/ <br>
 Авторы сначало не хотели открывать код, но сам код доступен под GPL v3 (не проверялось) https://bitbucket.org/sas_team/
+* Stellarium планетарий, который создаёт реалистичное трёхмерное небо http://www.stellarium.org/ru/
+* Celestia - 3D модель космоса, спутников, звезд, планет, комет, галактик http://www.shatters.net/celestia/
 
 ## Система
 
@@ -263,6 +265,9 @@ http://www.cpuid.com/softwares/cpu-z.html
 
 * DirectX
 https://www.microsoft.com/ru-ru/download/details.aspx?id=35
+
+* сглаживание шрифтов для Win XP https://www.microsoft.com/typography/ClearTypePowerToy.mspx
+* драйвер фаловой системы exFAT для Win XP https://www.microsoft.com/ru-RU/download/details.aspx?id=19364
 
 ## Операционные системы
 
