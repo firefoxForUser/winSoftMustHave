@@ -61,8 +61,11 @@ https://www.qt.io/download-open-source/
 
 #### Java библиотеки, фреймворки
 
-* библиотеки Spring, Spring MVC, Spring Security
-* Hibernate, Hibernate Validator
+* Spring http://repo.spring.io/release/org/springframework/spring/
+* Spring MVC http://repo.spring.io/release/org/springframework/spring-webmvc/
+* Spring Security http://maven.springframework.org/release/org/springframework/security/spring-security/
+* Hibernate http://hibernate.org/orm/
+* Hibernate Validator http://hibernate.org/validator/
 
 ## Видео/Аудио
 
