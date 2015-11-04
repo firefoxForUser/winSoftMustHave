@@ -157,6 +157,7 @@ https://filezilla-project.org/
 #### Текстовые редакторы
 
 * Notepad++ универсальный блокнот, удобен и для программирования https://notepad-plus-plus.org/
+* Atom - редактор кода от github, множество языков и плагинов https://atom.io/
 
 #### Разные
 
