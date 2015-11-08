@@ -160,8 +160,15 @@ https://filezilla-project.org/
 
 #### Текстовые редакторы
 
-* Notepad++ универсальный блокнот, удобен и для программирования https://notepad-plus-plus.org/
-* Atom - редактор кода от github, множество языков и плагинов https://atom.io/
+* Notepad++ универсальный блокнот, удобен и для программирования https://notepad-plus-plus.org/ <br>
+  Плагины:
+  * dspellcheck (установить словари)
+  * jstool
+  * xml tools (не понимает руссий в путях)
+* Atom - редактор кода от github, множество языков и плагинов https://atom.io/ <br>
+  Плагины:
+  * minimap - карта документа
+  * sync-scroll - инхронизация прокрутки окон
 
 #### Разные
 
