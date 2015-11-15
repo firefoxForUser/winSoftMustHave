@@ -17,3 +17,5 @@
 Поиск Windows (Windows Search)
 Служба регистрации ошибок Windows
 Клиент отслеживания изменившихся связей
+
+Активировать администратора, запустить cmd как админ и: net user administrator /active:yes

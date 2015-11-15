@@ -14,6 +14,8 @@
 * JDK и JRE от ORACLE. Качать именно JDK, иногда JRE не хватает.
 Качать лучше и x86 и x64 версию, так как плагин только от 32 битной версии будет работать с 32 битными программами.
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
+* python 2.7 https://www.python.org/download/releases/2.7/
+	* библиотека, для графических http://www.wxpython.org/
 
 #### Кодеки
 
@@ -39,8 +41,8 @@ https://www.qt.io/download-open-source/
 
 #### Сборщики
 
-* maven - сборщик и репозиторий библиотек для java https://maven.apache.org/
-* ant - сборщик с уклоном в Java http://ant.apache.org/bindownload.cgi
+* maven - сборщик и репозиторий библиотек для java https://archive.apache.org/dist/maven/binaries/
+* ant - сборщик с уклоном в Java https://archive.apache.org/dist/ant/binaries/
 
 #### Локальные сервера
 
@@ -201,7 +203,7 @@ https://www.libreoffice.org/download/libreoffice-fresh/
 
 #### LiveCD/USB
 
-* UNetbootin создание LiveUSB из Linux образа диска для флэшки  http://unetbootin.sourceforge.net/
+* UNetbootin создание LiveUSB из Linux образа диска для флэшки  https://unetbootin.github.io/
 * оффициальная утилита для создания LiveUSB из Win7 http://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool
 * Rufus может создавать установочные LiveUSB в том числе с WinXP
 https://rufus.akeo.ie/
@@ -272,11 +274,15 @@ https://technet.microsoft.com/en-us/sysinternals/bb963902.aspx
 http://www.cpuid.com/softwares/cpu-z.html
 портативная версия http://portableapps.com/apps/utilities/ant_renamer_portable
 * ext2fsd - драйвер для работы с ext2/3/4 под Windows http://www.ext2fsd.com/
+* отключение сбора статистики в Win7-10:
+	* https://github.com/10se1ucgo/DisableWinTracking
+	* https://github.com/Nummer/Destroy-Windows-10-Spying
+* Для запуска программ с правами и скриптов адмистратора http://www.microsoft.com/en-us/download/details.aspx?id=7352
 
 ## Компоненты операционных систем
 
-* DirectX
-https://www.microsoft.com/ru-ru/download/details.aspx?id=35
+* DirectX (в Win7 и выше устанавливать через систему обновлений)
+https://www.microsoft.com/ru-ru/download/details.aspx?id=34429
 
 * сглаживание шрифтов для Win XP https://www.microsoft.com/typography/ClearTypePowerToy.mspx
 * драйвер фаловой системы exFAT для Win XP https://www.microsoft.com/ru-RU/download/details.aspx?id=19364
